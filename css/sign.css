@@ -37,9 +37,12 @@ body {
     cursor: pointer;
 }
 
+.card-header {
+    background-color: #5252ff !important;
+}
+
 .card-header h3 {
     color: white;
-    background-color: #5252ff;
     margin-top: 10px;
     margin-bottom: 2px;
 }

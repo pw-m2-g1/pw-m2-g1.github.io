@@ -7,6 +7,16 @@
     text-decoration: underline;
 }
 
+#gameImage {
+    position: relative;
+    left: -1;
+}
+
+#gameInfo {
+    color: black;
+    font-size: 18px;
+}
+
 .box {
     position: relative;
     padding: 2rem;
