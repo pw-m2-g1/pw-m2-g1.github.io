@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
-html, body {
+html,
+body {
     font-family: 'Inter', sans-serif !important;
 }
 
@@ -9,14 +10,15 @@ html, body {
     margin-bottom: 40px;
 }
 
-.novidades, .reviews {
+.novidades,
+.reviews {
     margin-top: 100px;
     margin-bottom: 10px;
 }
 
 .search-bar {
     margin-top: 25px;
-    padding: 7px 2px 7px 35px;
+    padding: 7px 2px 7px 40%;
     border-radius: 5px;
     color: black;
     background-color: transparent;
