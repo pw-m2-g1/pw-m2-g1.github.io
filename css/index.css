@@ -81,3 +81,11 @@ html, body {
     height: 50px;
     width: 50px;
 }
+
+.fa-star-half-full {
+    color: orange;
+}
+
+.checked {
+    color: orange;
+}
