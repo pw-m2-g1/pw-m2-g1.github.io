@@ -4,9 +4,9 @@ function loadSearchData() {
         { name: "League of Legends", icon: "./images/games/logos/LoL_icon.svg.png", href: "./page/game/lol.html" },
         { name: "Counter-Strike 2", icon: "./images/games/logos/cs2.png", href: "./page/game/cs2.html" },
         { name: "Propnight", icon: "./images/games/logos/propnight_icon.jpg", href: "./page/game/propnight.html" },
-        { name: "Among Us", icon: "./images/games/logos/Among-Us-Logo.png", href: "./page/game/SUS.html" },
+        { name: "Among Us", icon: "./images/games/logos/Among-Us-Logo.png", href: "./page/game/sus.html" },
         { name: "F1 22", icon: "./images/games/logos/f1-logo.png", href: "./page/game/f1_22.html" },
-        { name: "DayZ", icon: "./images/games/logos/dayz.png", href: "./page/game/Dayz.html" },
+        { name: "DayZ", icon: "./images/games/logos/dayz.png", href: "./page/game/dayz.html" },
     ]
 
     const list = document.getElementById('lista');
