@@ -74,7 +74,7 @@ body {
     box-shadow: none;
     background: rgb(230, 230, 230);
     border-radius: 10px;
-    margin: 0 1rem 1rem 0;
+    margin: 0 0.5rem 0.5rem 0.5rem;
 }
 
 .box img {
