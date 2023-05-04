@@ -82,7 +82,9 @@ body {
     right: 30px;
     height: 50px;
     width: 50px;
+    border-radius: 5px;
 }
+
 
 .fa-star-half-full {
     color: orange;
