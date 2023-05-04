@@ -38,10 +38,4 @@ function search() {
 
 function bodyLoad() {
     loadSearchData();
-
-    // const sliders = document.getElementsByClassName('slider');
-    // for (const slider of sliders) {
-    //     slider.parentElement.style['z-index'] = 998;
-    //     slider.addEventListener('hover', () => { slider.parentElement.style['z-index'] = 999; })
-    // }
 }
